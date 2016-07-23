@@ -1,0 +1,18 @@
+{
+  "name": "pedreiro",
+  "version": "0.0.1",
+  "description": "site de servicos manuais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Curty & Felipe Ralph",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-npm-files": "^0.1.3",
+    "gulp-sass": "^2.3.2"
+  }
+}
